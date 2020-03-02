@@ -1,1 +1,2 @@
-# cw1
+# Maksym Alvan (s18511)
+# APBD czw1
